@@ -1,0 +1,3 @@
+appDict = {}
+nodeList = []
+clusterList = []
